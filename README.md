@@ -1,7 +1,7 @@
 ## Oi, eu sou Elias 👋
 
 
-- 💻🖱️ Atualmente estudando React.Js | Node.Js | MongoDB
+- 💻🖱️ Atualmente estudando Javascript | Typescript | CSS | React Native
 - 🖥️ Em busca de oportunidades como desenvolvedor Front-end 
 
 <div align="center">
