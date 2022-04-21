@@ -1,7 +1,7 @@
 ## Oi, eu sou Elias 👋
 
 
-- 💻🖱️ Atualmente estudando Javascript | Typescript | CSS | React Native
+- 💻🖱️ Atualmente estudando Javascript | Typescript | CSS | Angular | React Native
 - 🖥️ Em busca de oportunidades como desenvolvedor Front-end 
 
 <div align="center">
